@@ -26,9 +26,9 @@
 | Jogo | Tipo | Download |
 | :--- | :--- | :---: |
 | 🚇 **Metro Awakening** | 🎙️ Dublagem PT-BR (Beta) | **[⬇️ Baixar](../../releases)** |
-| 🔫 **Half-Life: Alyx** | 🎙️ Dublagem PT-BR | **[⬇️ Baixar](../../releases)** |
-| 🦾 **Marvel's Iron Man VR** | 🎙️ Dublagem PT-BR | **[⬇️ Baixar](../../releases)** |
-| 🌊 **The Sinking City Remastered** | 🎙️ Dublagem PT-BR | **[⬇️ Baixar](../../releases)** |
+| 🔫 **Half-Life: Alyx** | 🎙️ Dublagem PT-BR (Beta) | **[⬇️ Baixar](../../releases)** |
+| 🦾 **Marvel's Iron Man VR** | 🎙️ Dublagem PT-BR (Beta) | **[⬇️ Baixar](../../releases)** |
+| 🌊 **The Sinking City Remastered** | 🎙️ Dublagem PT-BR (Beta) | **[⬇️ Baixar](../../releases)** |
 | _(em breve mais jogos...)_ | | |
 
 ---
